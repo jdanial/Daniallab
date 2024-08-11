@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 256 256" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="256" width="256" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1" vectornator:layerName="Group 2">
+<path d="M0 18.2857L0 54.8571C40.3957 54.8571 73.1429 87.6043 73.1429 128C73.143 168.396 40.3957 201.143 0 201.143L0 237.714C60.5935 237.714 109.714 188.594 109.714 128C109.714 67.4065 60.5935 18.2857 0 18.2857Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 6"/>
+<path d="M178.183 0C204.114 36.0329 219.429 80.2171 219.429 128C219.429 175.783 204.114 219.967 178.183 256L256 256L256 0L178.183 0Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 7"/>
+<path d="M0 91.4286L0 164.571C20.1979 164.571 36.5714 148.198 36.5714 128C36.5717 107.802 20.1978 91.4286 0 91.4286Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 8"/>
+<path d="M70.8229 0C115.815 24.9492 146.286 72.9078 146.286 128C146.286 183.092 115.815 231.051 70.8229 256L130.537 256C162.885 223.015 182.857 177.849 182.857 128C182.857 78.1511 162.885 32.9849 130.537 0L70.8229 0Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curve 9"/>
+</g>
+</g>
+</svg>
